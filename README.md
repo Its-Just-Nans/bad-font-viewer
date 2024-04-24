@@ -1,6 +1,6 @@
 # font-viewer
 
-![demo](./output.gif)
+![demo](./demo.gif)
 
 ```sh
 # python get_font.py
